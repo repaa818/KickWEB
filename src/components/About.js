@@ -50,7 +50,7 @@ const About = () => {
           </div>
           <div className="about-stats-card">
             <h4 className="h-color">375k+</h4>
-            <p className="p-color">Total Commands Ran</p>
+            <p className="p-color">Total Commands</p>
           </div>
         </section>
       </section>
